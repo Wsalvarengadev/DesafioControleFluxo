@@ -16,7 +16,7 @@ O programa define uma exceção personalizada chamada `ParametrosInvalidosExcept
 
 ## Estrutura do Código
 
-### Classe `ParametrosInvalidosException`
+### Classe `Contador`
 
 ```java
 class ParametrosInvalidosException extends Exception {
@@ -65,6 +65,7 @@ javac Contador.java
 java Contador
 
 Exemplos de uso:
+```
 Digite o primeiro parâmetro
 5
 Digite o segundo parâmetro
@@ -74,5 +75,5 @@ Imprimindo número: 2
 Imprimindo número: 3
 Imprimindo número: 4
 Imprimindo número: 5
-
+```
 
