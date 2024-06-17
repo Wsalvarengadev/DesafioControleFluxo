@@ -56,15 +56,15 @@ public class Contador {
     }
 }
 ```
-Como Executar
-1.Certifique-se de ter o JDK instalado em seu sistema.
-2.Compile o programa usando o seguinte comando no terminal:
+##Como Executar
+ - Certifique-se de ter o JDK instalado em seu sistema.
+ - Compile o programa usando o seguinte comando no terminal:
 javac Contador.java
 
-3.Execute o programa com o comando:
+ - Execute o programa com o comando:
 java Contador
 
-Exemplos de uso:
+##Exemplos de uso:
 ```
 Digite o primeiro parâmetro
 5
